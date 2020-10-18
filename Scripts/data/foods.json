@@ -1,0 +1,48 @@
+{
+  "foods": [{
+    "id": "0",
+    "image": "public/img/fish.jpg",
+    "name": "咸鱼自助餐",
+    "price": "￥ 87"
+  }, {
+    "id": "1",
+    "image": "public/img/chicken.jpg",
+    "name": "辣鸡自助餐",
+    "price": "￥ 89"
+  }, {
+    "id": "2",
+    "image": "public/img/bird.jpg",
+    "name": "菜鸟自助餐",
+    "price": "￥ 83"
+  }, {
+    "id": "3",
+    "image": "public/img/fish.jpg",
+    "name": "咸鱼自助餐",
+    "price": "￥ 87"
+  }, {
+    "id": "4",
+    "image": "public/img/chicken.jpg",
+    "name": "辣鸡自助餐",
+    "price": "￥ 89"
+  }, {
+    "id": "5",
+    "image": "public/img/bird.jpg",
+    "name": "菜鸟自助餐",
+    "price": "￥ 83"
+  }, {
+    "id": "6",
+    "image": "public/img/fish.jpg",
+    "name": "咸鱼自助餐",
+    "price": "￥ 87"
+  }, {
+    "id": "7",
+    "image": "public/img/chicken.jpg",
+    "name": "辣鸡自助餐",
+    "price": "￥ 89"
+  }, {
+    "id": "8",
+    "image": "public/img/bird.jpg",
+    "name": "菜鸟自助餐",
+    "price": "￥ 83"
+  }]
+}

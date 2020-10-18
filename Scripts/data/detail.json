@@ -1,0 +1,57 @@
+{
+  "detail": [{
+    "id": "0",
+    "image": "public/img/fish.jpg",
+    "name": "咸鱼自助餐",
+    "price": "￥ 87",
+    "description": "咸鱼，咸鱼，博主是咸鱼，一条大咸鱼，一条老咸鱼，一条大佬咸鱼。"
+  }, {
+    "id": "1",
+    "image": "public/img/chicken.jpg",
+    "name": "辣鸡自助餐",
+    "price": "￥ 87",
+    "description": "辣鸡，辣鸡，博主是辣鸡，一只大辣鸡，一只老辣鸡，一只大佬辣鸡。"
+  }, {
+    "id": "2",
+    "image": "public/img/bird.jpg",
+    "name": "菜鸟自助餐",
+    "price": "￥ 87",
+    "description": "菜鸟，菜鸟，博主是咸鱼，一只大菜鸟，一只老菜鸟，一只大佬菜鸟。"
+  }, {
+    "id": "3",
+    "image": "public/img/fish.jpg",
+    "name": "咸鱼自助餐",
+    "price": "￥ 87",
+    "description": "咸鱼，咸鱼，博主是咸鱼，一条大咸鱼，一条老咸鱼，一条大佬咸鱼。"
+  }, {
+    "id": "4",
+    "image": "public/img/chicken.jpg",
+    "name": "辣鸡自助餐",
+    "price": "￥ 87",
+    "description": "辣鸡，辣鸡，博主是辣鸡，一只大辣鸡，一只老辣鸡，一只大佬辣鸡。"
+  }, {
+    "id": "5",
+    "image": "public/img/bird.jpg",
+    "name": "菜鸟自助餐",
+    "price": "￥ 87",
+    "description": "菜鸟，菜鸟，博主是咸鱼，一只大菜鸟，一只老菜鸟，一只大佬菜鸟。"
+  }, {
+    "id": "6",
+    "image": "public/img/fish.jpg",
+    "name": "咸鱼自助餐",
+    "price": "￥ 87",
+    "description": "咸鱼，咸鱼，博主是咸鱼，一条大咸鱼，一条老咸鱼，一条大佬咸鱼。"
+  }, {
+    "id": "7",
+    "image": "public/img/chicken.jpg",
+    "name": "辣鸡自助餐",
+    "price": "￥ 87",
+    "description": "辣鸡，辣鸡，博主是辣鸡，一只大辣鸡，一只老辣鸡，一只大佬辣鸡。"
+  }, {
+    "id": "8",
+    "image": "public/img/bird.jpg",
+    "name": "菜鸟自助餐",
+    "price": "￥ 87",
+    "description": "菜鸟，菜鸟，博主是咸鱼，一只大菜鸟，一只老菜鸟，一只大佬菜鸟。"
+  }]
+}
